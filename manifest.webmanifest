@@ -1,0 +1,1 @@
+{"name": "입툭차이나", "short_name": "입툭차이나", "lang": "ko", "start_url": "/iptuk-china/", "scope": "/iptuk-china/", "display": "standalone", "background_color": "#0F1424", "theme_color": "#0F1424", "icons": [{"src": "/iptuk-china/icon-192.png", "sizes": "192x192", "type": "image/png"}, {"src": "/iptuk-china/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}]}
